@@ -1,0 +1,6 @@
+d:\users\monte\documents\visual studio 2017\Projects\Solution\Solution\bin\Debug\Solution.exe.config
+d:\users\monte\documents\visual studio 2017\Projects\Solution\Solution\bin\Debug\Solution.exe
+d:\users\monte\documents\visual studio 2017\Projects\Solution\Solution\bin\Debug\Solution.pdb
+d:\users\monte\documents\visual studio 2017\Projects\Solution\Solution\obj\Debug\Solution.csprojResolveAssemblyReference.cache
+d:\users\monte\documents\visual studio 2017\Projects\Solution\Solution\obj\Debug\Solution.exe
+d:\users\monte\documents\visual studio 2017\Projects\Solution\Solution\obj\Debug\Solution.pdb

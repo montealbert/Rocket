@@ -1,0 +1,10 @@
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\FileBased.Tests.dll
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\FileBased.Tests.pdb
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\nunit.framework.dll
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\Solution.exe
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\Solution.pdb
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\Solution.exe.config
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\bin\Debug\nunit.framework.xml
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\obj\Debug\FileBased.Tests.csprojResolveAssemblyReference.cache
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\obj\Debug\FileBased.Tests.dll
+d:\Users\Monte\documents\visual studio 2017\Projects\Solution\FileBased.Tests\obj\Debug\FileBased.Tests.pdb
